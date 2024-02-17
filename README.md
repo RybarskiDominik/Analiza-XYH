@@ -1,2 +1,2 @@
-# Por-wnanie-wsp-rz-dnych
+# Porównanie współrzędnych
 Porównanie współrzędnych
