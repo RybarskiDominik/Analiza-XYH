@@ -1,0 +1,11 @@
+GML/insurance.db
+GML/GML.xlsx
+GML/Parsed_GML.gml
+*.gml
+log.log
+GML.py
+build
+dist
+GML.spec
+Output/GML-2021 Setup.exe
+.venv
